@@ -1,6 +1,6 @@
 <?php
 
-namespace App/Http/Controllers/API;
+namespace App\Http\Controllers\API;
 
 use App\DTOs\CreateUserDTO;
 use App\Services\UserService;
